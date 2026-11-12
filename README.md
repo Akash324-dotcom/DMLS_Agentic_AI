@@ -170,18 +170,17 @@ The full lab solution is in the **student guide (Appendix F)**. Try the lab your
 
 ## What's in this repo
 
-<!-- Edit this list to match your actual folders, then delete this comment. -->
-
 ```
 .
 ├── notebooks/
-│   └── Session1_From_LLM_to_Agent_STUDENT.ipynb   ← start here
-├── guide/
-│   └── DMLS_Session1_Student_Guide.pdf            ← every concept explained, expected outputs, lab solution
+│   └── Session1_From_LLM_to_Agent_STUDENT.ipynb   ← start here (exercises are blank on purpose)
 ├── slides/
-│   └── Session1_From_LLM_to_Agent.pdf
+│   └── Session 1  LLM to Agent.pptx
+├── LICENSE
 └── README.md
 ```
+
+This is the **student version**: the `YOUR TURN` cells raise `NotImplementedError` until you write them, so the notebook is meant to be filled in during the session. The tests you write live inside the notebook (Chapter 9), not in a separate folder.
 
 **New to Python?** Start with **Chapter P** in the student guide. It covers only the Python this session uses, from zero, in five pages.
 
